@@ -1,0 +1,5 @@
+
+
+systemctl disable firewalld --now
+
+
